@@ -14,8 +14,6 @@
 
 앞으로도 많은 기대와 응원 부탁드려요! 🙌
 
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/2e5d1140-774a-4a47-87e2-8e1446f933c4" />
-
 ---
 
 [홈페이지](https://www.devdevdev.co.kr/) | [인스타그램](https://www.instagram.com/devdevdev_official/)
